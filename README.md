@@ -34,5 +34,6 @@ pip install -r requirements.txt
 ```bash
 python tracker.py
 ```
+And enter number of pages you want to scrape
 ### 3. View Output
 The file sneakers_prices.csv will be saved
